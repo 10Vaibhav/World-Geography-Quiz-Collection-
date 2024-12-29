@@ -81,3 +81,6 @@ Each quiz requires its own PostgreSQL database. Refer to individual quiz READMEs
 - Template Engine: EJS
 - Environment Management: dotenv
 - Request Parsing: body-parser
+
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
