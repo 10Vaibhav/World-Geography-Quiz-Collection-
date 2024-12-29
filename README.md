@@ -7,7 +7,6 @@ A collection of interactive web-based geography quizzes built with Node.js, Expr
 ### 1. Flag Quiz 🎌
 Test your knowledge of world flags! This application presents users with flag images and challenges them to identify the corresponding countries.
 
-[View Flag Quiz Details](./flag-quiz/README.md)
 
 Key Features:
 - Random flag questions
@@ -18,7 +17,6 @@ Key Features:
 ### 2. World Capital Quiz 🏛️
 Test your knowledge of world capitals by matching countries with their capital cities.
 
-[View World Capital Quiz Details](./world-capital-quiz/README.md)
 
 Key Features:
 - Random capital city questions
